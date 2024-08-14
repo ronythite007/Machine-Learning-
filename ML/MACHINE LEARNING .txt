@@ -1,0 +1,21 @@
+• Supervised Learning
+
+Definition: A type of machine learning where the algorithm is trained on a labeled dataset, meaning each training example is paired with an output label.
+
+Goal: To learn a mapping from inputs to outputs, so it can predict the output for new, unseen inputs.
+
+Example: Predicting house prices based on features like size, location, and number of bedrooms. The training data includes the features and the actual house prices.
+
+• Unsupervised Learning
+
+Definition: A type of machine learning where the algorithm is trained on an unlabeled dataset, meaning the training data consists of input data without any corresponding output labels.
+
+Goal: To find hidden patterns or intrinsic structures in the input data.
+
+Example: Grouping customers into different segments based on their purchasing behavior without knowing in advance which customer belongs to which segment.
+
+• Reinforcement Learning
+
+Definition: A type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward.
+
+Goal: To learn a policy that tells the agent the best action to take in each state to maximize the total reward over time
